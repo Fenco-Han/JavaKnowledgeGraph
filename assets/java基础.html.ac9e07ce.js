@@ -1,0 +1,1 @@
+const a={key:"v-cf871a56",path:"/java/base/java%E5%9F%BA%E7%A1%80.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"Java\u57FA\u7840",slug:"java\u57FA\u7840",children:[]}],git:{updatedTime:1643170809e3,contributors:[{name:"hanpengfei",email:"fenco_han@163.com",commits:1}]},filePathRelative:"java/base/java\u57FA\u7840.md"};export{a as data};
